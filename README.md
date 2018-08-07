@@ -1,4 +1,5 @@
 # README
+**Rails version** 5.2.0
 
 **Installation**
 
