@@ -8,7 +8,7 @@ bundle install
 
 db:migrate
 
-**test**
+**Test**
 
 rails test
 
