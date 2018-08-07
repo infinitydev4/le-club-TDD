@@ -1,2 +1,4 @@
 class ApplicationController < ActionController::Base
-end
+    add_flash_types :success, :danger, :warning
+    include SessionsHelper
+  end
